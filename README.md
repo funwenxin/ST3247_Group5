@@ -8,16 +8,16 @@ We model disease transmission using a stochastic Susceptible–Infected–Recove
 
 Unlike standard SIR models on static graphs, observed individuals adapt their connections, creating a co-evolving system of network dynamics and disease spread.
 
-Problem Setup
-Individuals are represented as nodes in a network
-Edges represent contacts through which infection can spread
-Susceptible nodes may rewire connections away from infected nodes
-The system evolves stochastically over time
+Problem Setup:
+- Individuals are represented as nodes in a network
+- Edges represent contacts through which infection can spread
+- Susceptible nodes may rewire connections away from infected nodes
+The system evolves stochastically over time.
 
 Dataset:
-infected_timeseries.csv	
-rewiring_timeseries.csv	
-final_degree_histograms.csv
+- infected_timeseries.csv	
+- rewiring_timeseries.csv	
+- final_degree_histograms.csv
 
 Methods:
 - Standard ABC with selected summary statistics
