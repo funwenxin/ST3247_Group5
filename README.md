@@ -2,9 +2,9 @@
 This project studies the spread of infectious diseases on adaptive contact networks, where both the epidemic dynamics and the network structure evolve over time.
 
 We model disease transmission using a stochastic Susceptible–Infected–Recovered (SIR) framework:
-β (beta): infection rate
-γ (gamma): recovery rate
-ρ (rho): rewiring rate where susceptible individuals avoid infected neighbors
+- β (beta): infection rate
+- γ (gamma): recovery rate
+- ρ (rho): rewiring rate where susceptible individuals avoid infected neighbors
 
 Unlike standard SIR models on static graphs, observed individuals adapt their connections, creating a co-evolving system of network dynamics and disease spread.
 
