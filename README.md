@@ -33,7 +33,7 @@ ST3247_GROUP5/
 │ └── Experimentation_2.ipynb       # experiments on a separate subset of summary statistics
 ├── Advanced_Methods/  
 │ └── Regression_Adj_Code.ipynb       # code for Regression Adjustment ABC
-│ └── SMC-ABC.ipynb       # code for Regression Adjustment ABC
+│ └── SMC-ABC.ipynb                   # code for SMC-ABC
 ├── Datasets_n_simulator/
 │ ├── final_degree_histograms.csv 	     # observed dataset of final degree histograms
 │ ├── infected_timeseries.csv            # observed timeseries dataset of infected
