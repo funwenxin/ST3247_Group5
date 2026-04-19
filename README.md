@@ -31,8 +31,9 @@ ST3247_GROUP5/
 ├── ABC Script/
 │ ├── Experimentation_1.ipynb       # initial experiments on a subset of summary statistics
 │ └── Experimentation_2.ipynb       # experiments on a separate subset of summary statistics
-├── Regression Adjustment ABC Script/  
-│ └── Experimentation_3.ipynb       # code for Regression Adjustment ABC
+├── Advanced_Methods/  
+│ └── Regression_Adj_Code.ipynb       # code for Regression Adjustment ABC
+│ └── SMC-ABC.ipynb       # code for Regression Adjustment ABC
 ├── Datasets_n_simulator/
 │ ├── final_degree_histograms.csv 	     # observed dataset of final degree histograms
 │ ├── infected_timeseries.csv            # observed timeseries dataset of infected
